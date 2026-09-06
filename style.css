@@ -1,0 +1,282 @@
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Abrar Arabi | Future Entrepreneur</title>
+
+    <link rel="stylesheet" href="style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+    <div class="background"></div>
+    <div class="overlay"></div>
+
+    <div id="money-container"></div>
+
+    <nav>
+        <div class="logo">ABRAR<span>ARABI</span></div>
+
+        <div class="nav-links">
+            <a href="#about">ABOUT</a>
+            <a href="#skills">SKILLS</a>
+            <a href="#business">BUSINESS</a>
+            <a href="#projects">PROJECTS</a>
+            <a href="#contact">CONTACT</a>
+        </div>
+
+        <button id="musicBtn" class="music-btn">
+            🎵 PLAY MUSIC
+        </button>
+    </nav>
+
+    <section class="hero">
+
+        <div class="hero-content">
+
+            <p class="small-title">WELCOME TO MY WORLD</p>
+
+            <h1>
+                ABRAR <span>ARABI</span>
+            </h1>
+
+            <h2>
+                Future Entrepreneur | AI Web Developer | Trader
+            </h2>
+
+            <p class="hero-text">
+                Building the future through technology, business,
+                coding and trading.
+            </p>
+
+            <a href="#about" class="main-btn">
+                ENTER MY WORLD 🚀
+            </a>
+
+        </div>
+
+        <div class="profile-card">
+
+            <div class="profile-image">
+                <img src="profile.jpg" alt="Abrar Arabi">
+            </div>
+
+            <h3>ABRAR ARABI</h3>
+
+            <p>Future Entrepreneur</p>
+
+            <div class="profile-line"></div>
+
+            <span>GRADE 7 • CODER • TRADER</span>
+
+        </div>
+
+    </section>
+
+    <section id="about" class="section">
+
+        <div class="section-title">
+            <p>01 — ABOUT ME</p>
+            <h2>WHO AM I?</h2>
+        </div>
+
+        <div class="glass-card">
+
+            <p>
+                I am a student of Cantonment Public School and College,
+                Rangpur. I study in Grade 7 and I am passionate about
+                technology, coding, business and trading.
+            </p>
+
+            <p>
+                I have already worked on several coding projects and
+                I am learning AI and web development to build my own
+                digital future.
+            </p>
+
+            <div class="goal">
+                <span>MY BIG GOAL</span>
+                <strong>$1,000,000</strong>
+                <small>BY 2030</small>
+            </div>
+
+        </div>
+
+    </section>
+
+    <section id="skills" class="section">
+
+        <div class="section-title">
+            <p>02 — EXPERTISE</p>
+            <h2>MY SKILLS</h2>
+        </div>
+
+        <div class="skills-grid">
+
+            <div class="skill-card">
+                <div>💻</div>
+                <h3>CODING</h3>
+                <p>Building creative projects with code.</p>
+            </div>
+
+            <div class="skill-card">
+                <div>🤖</div>
+                <h3>AI</h3>
+                <p>Exploring artificial intelligence.</p>
+            </div>
+
+            <div class="skill-card">
+                <div>🌐</div>
+                <h3>WEB DEVELOPMENT</h3>
+                <p>Creating modern websites.</p>
+            </div>
+
+            <div class="skill-card">
+                <div>📈</div>
+                <h3>TRADING</h3>
+                <p>Learning markets and trading.</p>
+            </div>
+
+            <div class="skill-card">
+                <div>💼</div>
+                <h3>FREELANCING</h3>
+                <p>Turning digital skills into opportunities.</p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <section id="business" class="section">
+
+        <div class="section-title">
+            <p>03 — VISION</p>
+            <h2>BUSINESS & TRADING</h2>
+        </div>
+
+        <div class="business-grid">
+
+            <div class="business-card">
+                <span>01</span>
+                <h3>TRADING</h3>
+                <p>
+                    Learning financial markets, discipline,
+                    risk management and trading strategies.
+                </p>
+            </div>
+
+            <div class="business-card">
+                <span>02</span>
+                <h3>E-COMMERCE</h3>
+                <p>
+                    Building digital businesses and exploring
+                    online commerce.
+                </p>
+            </div>
+
+            <div class="business-card">
+                <span>03</span>
+                <h3>ENTREPRENEURSHIP</h3>
+                <p>
+                    My long-term vision is to build successful
+                    technology-driven businesses.
+                </p>
+            </div>
+
+        </div>
+
+    </section>
+
+    <section id="projects" class="section">
+
+        <div class="section-title">
+            <p>04 — CREATIONS</p>
+            <h2>MY PROJECTS</h2>
+        </div>
+
+        <div class="project-grid">
+
+            <div class="project-card">
+                <span>PROJECT 01</span>
+                <h3>CODING PROJECT</h3>
+                <p>My first creative coding project.</p>
+                <button>VIEW PROJECT →</button>
+            </div>
+
+            <div class="project-card">
+                <span>PROJECT 02</span>
+                <h3>AI PROJECT</h3>
+                <p>An AI-based project coming soon.</p>
+                <button>COMING SOON</button>
+            </div>
+
+            <div class="project-card">
+                <span>PROJECT 03</span>
+                <h3>FUTURE BUSINESS</h3>
+                <p>My future business project.</p>
+                <button>COMING SOON</button>
+            </div>
+
+        </div>
+
+    </section>
+
+    <section class="goal-section">
+
+        <p>THE MISSION</p>
+
+        <h2>
+            THINK BIG.<br>
+            BUILD BIGGER.
+        </h2>
+
+        <div class="million">
+            $1M <span>2030</span>
+        </div>
+
+    </section>
+
+    <section id="contact" class="section">
+
+        <div class="section-title">
+            <p>05 — CONTACT</p>
+            <h2>LET'S CONNECT</h2>
+        </div>
+
+        <div class="contact-card">
+
+            <h3>HAVE AN IDEA?</h3>
+
+            <p>
+                Let's build something amazing together.
+            </p>
+
+            <a href="mailto:your@email.com" class="contact-btn">
+                CONTACT ME
+            </a>
+
+        </div>
+
+    </section>
+
+    <footer>
+        <div>ABRAR ARABI</div>
+        <p>© 2026 — FUTURE ENTREPRENEUR</p>
+    </footer>
+
+    <audio id="music" loop>
+        <source src="music.mp3" type="audio/mpeg">
+    </audio>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
+```
